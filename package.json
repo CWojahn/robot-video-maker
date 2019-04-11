@@ -1,0 +1,22 @@
+{
+  "name": "robot-video-maker",
+  "version": "1.0.0",
+  "description": "projeto de robo para fazer a video com base em uma busca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CWojahn/robot-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CWojahn/robot-video-maker/issues"
+  },
+  "homepage": "https://github.com/CWojahn/robot-video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
